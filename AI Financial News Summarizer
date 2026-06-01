@@ -1,0 +1,34 @@
+# AI Financial News Summarizer
+
+An open-source AI project that summarizes financial news, earnings reports, and market updates using OpenAI models.
+
+## Features
+
+- Financial news summarization
+- Earnings report analysis
+- Market trend extraction
+- AI-powered insights
+
+## Tech Stack
+
+- Python
+- OpenAI API
+- Requests
+
+## Roadmap
+
+### Phase 1
+- Financial news summarization
+
+### Phase 2
+- Earnings report analysis
+
+### Phase 3
+- Portfolio monitoring
+
+### Phase 4
+- Web dashboard
+
+## Maintainer
+
+Justin Ｗei
